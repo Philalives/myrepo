@@ -7,3 +7,4 @@ plot(x, y)
 # can make this better
 plot(x, y, type="o")
 # is this better for real?
+#-- The above comment adds nothing, sakaliyatsha
